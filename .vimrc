@@ -16,6 +16,7 @@ Bundle 'gmarik/vundle'
 " Bundle 'rstacruz/sparkup', {'rtp': 'vim/'}
 " Bundle 'tpope/vim-rails.git'
 Bundle 'scrooloose/nerdtree'
+Bundle 'scrooloose/nerdcommenter'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'godlygeek/tabular'
 
