@@ -20,6 +20,7 @@ Bundle 'scrooloose/nerdcommenter'
 Bundle 'flazz/vim-colorschemes'
 Bundle 'godlygeek/tabular'
 
+" need moar plugins
 " vim-scripts repos
 " Bundle 'L9'
 " Bundle 'FuzzyFinder'
