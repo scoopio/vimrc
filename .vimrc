@@ -42,5 +42,5 @@ filetype plugin indent on     " required!
 
 colorscheme 256-grayvim
 set et
-set sw=4
-set sts=4
+set sw=3
+set sts=3
